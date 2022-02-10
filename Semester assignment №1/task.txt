@@ -1,0 +1,5 @@
+Butsie is a brown cat, Cornie is a black cat, Mac is a red cat. Flash, Rover and Spot are dogs. Flash is a spotted dog, Rover is a red dog, and Spot is a white dog.
+Tom owns any pet that is either brown or black. Kate owns all non-white dogs, not belonging to Tom. All pets Kate or Tom owns are pedigree animals.
+Alan owns Mac if Kate does not own Butsie and Spot is not a pedigree animal.
+
+Write a program in Prolog that answers the following question: What pets Tom and Kate own?

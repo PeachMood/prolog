@@ -1,0 +1,1 @@
+Create a catalog of some items of your choice. It could be books, cars, movies etc. Write a program that when started greets a user and asks if he or she wants to search something in the catalog.
